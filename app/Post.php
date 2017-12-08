@@ -11,6 +11,5 @@ class Post extends Model
     // Primary Key
     public $primaryKey = 'id';
     // Timestamps
-    // Timestamps
     public $timestamps = true;
 }
